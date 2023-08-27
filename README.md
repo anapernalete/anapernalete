@@ -17,6 +17,9 @@
     <a href="https://leetcode.com/anapernalete/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   </a>
+    <a href="https://www.kaggle.com/anaflorpernalete">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="LeetCode Badge"/>
+  </a>
 </div>
 
 
