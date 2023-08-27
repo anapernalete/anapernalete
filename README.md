@@ -1,6 +1,4 @@
 ---
-### Hi there 👋
-
 - 👩🏻‍💻 ML/AI Engineer
 - 🔥 Data and neuropsychology enthusiast 
 - 🎓 MS student & certified AWS expertise
