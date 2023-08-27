@@ -3,7 +3,9 @@
 - 🔥 Data and neuropsychology enthusiast 
 - 🎓 MS student & certified AWS expertise
 - 🏅 Enjoy challenging myself with interesting NLP projects
-- 💌 How to reach me:
+- 💌 How to reach me: pernaleteanaflor@gmail.com
+
+[Check out my website](https://anapernalete.github.io/) with my ML blog, updates and portfolio. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/anapernalete/">
