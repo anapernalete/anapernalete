@@ -29,7 +29,7 @@
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapernalete&show_icons=true&theme=radical&hide=stars,contribs&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapernalete&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##### :telescope: Skills :
+### :telescope: Skills :
 
 <div id="badges">
   <a href="#">
