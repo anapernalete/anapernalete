@@ -25,10 +25,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=anapernalete&style=flat-square&color=blue" alt=""/>
 
-### :fire: My Stats :
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapernalete&show_icons=true&theme=radical&hide=stars,contribs&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapernalete&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :telescope: Skills :
 
 <div id="badges">
@@ -52,6 +48,10 @@
   </a>
 </div>
 </div>
+
+### :fire: My Stats :
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anapernalete&show_icons=true&theme=radical&hide=stars,contribs&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapernalete&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CtDSNQYv0gQbPSn28O/giphy.gif" width="100"/>
