@@ -42,7 +42,10 @@
     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Apache Spark Badge"/>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Badge"/>
   </a>
 </div>
 </div>
