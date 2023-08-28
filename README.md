@@ -31,6 +31,22 @@
 
 ##### :telescope: Skills :
 
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Apache Spark Badge"/>
+  </a>
+</div>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CtDSNQYv0gQbPSn28O/giphy.gif" width="100"/>
 </div>
