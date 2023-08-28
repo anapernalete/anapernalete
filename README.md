@@ -1,6 +1,6 @@
 ---
-- 👩🏻‍💻 ML/AI Engineer
-- 🔥 Data and neuropsychology enthusiast 
+- 👩🏻‍💻 ML/AI
+- 🔥 Data enthusiast 
 - 🎓 MS student & certified AWS expertise
 - 🏅 Enjoy challenging myself with interesting NLP projects
 - 💌 How to reach me: pernaleteanaflor@gmail.com
