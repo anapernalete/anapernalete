@@ -47,6 +47,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog Badge"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
+  </a>
 </div>
 </div>
 
