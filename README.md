@@ -2,7 +2,7 @@
 - 👩🏻‍💻 Data/ML
 - 🎓 MS in Mechatronics student & certified AWS expertise
 - 🪴 Happiest when learning!
-- ⭐️ Enjoy challenging myself with fun ML projects
+- ⭐️ I enjoy challenging myself with fun ML projects
 - 💌 How to reach me: pernaleteanaflor@gmail.com
 
 Check out my website with my ML blog, updates and portfolio. 
