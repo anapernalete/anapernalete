@@ -2,7 +2,7 @@
 - 👩🏻‍💻 CS/Data/ML
 - 🪴 Happiest when learning!
 - ⭐️ I enjoy challenging myself with fun ML projects
-- 💌 :
+- 💌 
 
 
 <div id="header" align="center">
